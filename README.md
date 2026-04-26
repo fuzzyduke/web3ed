@@ -7,7 +7,7 @@ A centralized repository for initial interactions, research, and development rel
 | Project | Status | Last Updated | Key Focus |
 | :--- | :--- | :--- | :--- |
 | **[Gensyn](./projects/gensyn/)** | ✅ Complete | 2026-04-26 | MLIR, REE, Bisection Game |
-| **[Bittensor](./projects/bittensor/)** | ✅ Complete | 2026-04-26 | Subnets, $TAO, BTCLI |
+| **[Bittensor](./projects/tao/)** | ✅ Complete | 2026-04-26 | Subnets, $TAO, BTCLI |
 
 ## Project Structure
 
