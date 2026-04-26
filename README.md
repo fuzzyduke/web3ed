@@ -2,12 +2,28 @@
 
 A centralized repository for initial interactions, research, and development related to Web3 projects.
 
+### 📂 Research & Projects
+
+| Project | Status | Last Updated | Key Focus |
+| :--- | :--- | :--- | :--- |
+| **[Gensyn](./projects/gensyn/)** | ✅ Complete | 2026-04-26 | MLIR, REE, Bisection Game |
+| **[Bittensor](./projects/bittensor/)** | ✅ Complete | 2026-04-26 | Subnets, $TAO, BTCLI |
+
 ## Project Structure
 
-- `projects/`: Individual Web3 project explorations.
-- `docs/`: General documentation, research notes, and ecosystem overviews.
-- `scripts/`: Utility scripts for blockchain interaction, data fetching, etc.
-- `wallets/`: Configuration or public address tracking (keep sensitive info in `.env` or excluded).
+- `projects/`: Deep-dive research on specific Web3 ecosystems.
+- `docs/`: General Web3 concepts, whitepaper summaries, and glossary.
+- `scripts/`: Interaction scripts, scrapers, and benchmarking tools.
+- `benchmarks/`: Comparative assessments of AI models and protocols.
 
-## Purpose
-This repository serves as the primary workspace for all Web3-related experiments and integrations managed by the Antigravity assistant.
+---
+
+### 🛠️ Developer Setup
+
+1. **GitHub Auth**: The repository is synced with GitHub using the `gh` CLI.
+2. **Environment**: Python 3.x with `playwright` and `requests` for research and benchmarking.
+3. **Secrets**: Active API keys are managed via the `bible` secrets vault.
+
+---
+
+*Last Updated: 2026-04-26 by Antigravity*
